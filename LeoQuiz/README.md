@@ -56,5 +56,5 @@
 	0.4. Det fjerde du skal gjøre er å lage en connection med databasen, vi bruker mysql.connector.connect for å oppnå dette. Du må passe på at denne funskjonen spesifiserer variablene som trengs, i dette eksempelet er dette host, user, passord og database). Pass på at du lagrer alt dette som en variabel.
 	0.5. Sist så bruker du 'cursor' funksjonen til å kunne filtrere og navigere gjennom den spesifikke databasen.
 
-ERD (Entity Relationship Diagram)
+ERD (Entity Relationship Diagram):
     https://gyazo.com/9e92e82c68c4bedd9f8c2c26772dfb80
