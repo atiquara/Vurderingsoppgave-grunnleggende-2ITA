@@ -18,7 +18,7 @@
 3. Systembeskrivelse:
 
     0.1. Versjon.
-        Versjonen er 'commit: 6f2093b'
+        Versjonen er 'commit: 598dd30'
 	
     0.2. En beskrivelse av grensesnitt mot andre IT-systemer, manuelle eller maskinelle, som angir type, format og på import- og eksportdata.
         Programmet kommuniserer med MySql databasen for å sende 'Intiger' og 'String' verdier, også kjent som 'int' og 'str' verdier.
